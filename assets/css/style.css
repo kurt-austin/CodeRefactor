@@ -76,6 +76,7 @@ p {
     margin-left: 20px;
 }
 
+/* Combined multiple target CSS areas for combination to make code easier to read and maintain going forward. */
 
 .search-engine-optimization,.online-reputation-management,.social-media-marketing {
     margin-bottom: 20px;
